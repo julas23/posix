@@ -1,0 +1,19 @@
+shell:
+  program: /bin/bash
+  args:
+    - -l
+
+colors:
+  primary:
+    background: '#222222'
+    foreground: '#4682B4'
+
+window:
+  decorations: none
+  opacity: 0.1
+  position:
+    x: 0
+    y: 2120
+  dimensions:
+    columns: 385
+    lines: 20

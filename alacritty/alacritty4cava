@@ -1,0 +1,22 @@
+[env]
+
+[shell]
+program = "/usr/bin/cava"
+args = []
+
+[colors]
+[colors.primary]
+background = "#222222"
+foreground = "#4682B4"
+
+[window]
+decorations = "none"
+opacity = 0.1
+
+[window.position]
+x = 6000
+y = 4000
+
+[window.dimensions]
+columns = 378
+lines = 30
